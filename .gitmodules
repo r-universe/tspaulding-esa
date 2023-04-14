@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "filteRjsats"]
+	path = filteRjsats
+	url = https://github.com/tspaulding-esa/filterjsats
+	shallow = true
+	registered = true
+[submodule "telemetR"]
+	path = telemetR
+	url = https://github.com/tspaulding-esa/telemetr
+	shallow = true
+	registered = true
